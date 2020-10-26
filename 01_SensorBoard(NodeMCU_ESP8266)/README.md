@@ -11,6 +11,8 @@
 
 ![01_SensorBoard01](https://user-images.githubusercontent.com/59903316/97177306-7698ce80-17d9-11eb-83dc-de4bdd4af92d.jpg)
 
+<img src=https://user-images.githubusercontent.com/59903316/97177306-7698ce80-17d9-11eb-83dc-de4bdd4af92d.jpg width="700" height="370">
+
 ![01_SensorBoard02](https://user-images.githubusercontent.com/59903316/97177424-831d2700-17d9-11eb-9b09-432e2e5f09e9.jpg)
 
 ![01_SensorBoard03](https://user-images.githubusercontent.com/59903316/97177579-b95aa680-17d9-11eb-821a-270ed9318c5d.jpg)
@@ -23,4 +25,6 @@
 
 ![01_SensorBoard07](https://user-images.githubusercontent.com/59903316/97177526-a7790380-17d9-11eb-9327-b5cd3e1fd1d9.png)
 
+![ThingSpeak](https://user-images.githubusercontent.com/59903316/97179182-df814600-17db-11eb-95c4-e369af8b458c.gif)
 
+![ThingSpeak](https://user-images.githubusercontent.com/59903316/97179182-df814600-17db-11eb-95c4-e369af8b458c.gif width="700", height="370)
