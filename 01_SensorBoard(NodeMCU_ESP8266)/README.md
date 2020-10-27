@@ -21,6 +21,6 @@
 <img src=https://user-images.githubusercontent.com/59903316/97177526-a7790380-17d9-11eb-9327-b5cd3e1fd1d9.png width="500" height="300"> 
 ### 
 ###   
-<img src=https://user-images.githubusercontent.com/59903316/97179182-df814600-17db-11eb-95c4-e369af8b458c.gif>
+<img src=https://user-images.githubusercontent.com/59903316/97179182-df814600-17db-11eb-95c4-e369af8b458c.gif width="500" height="600">
 ###  
 ###  
