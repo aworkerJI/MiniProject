@@ -7,30 +7,19 @@
 ### 3) 밝기 따라 무드등(녹색)LED On
 ### 4) Iot Platform 인 ThingSpeack 통해 실시간으로 웹, 앱으로 센서 값 확인
 ### 5)
-
+### 
 
 
 <img src=https://user-images.githubusercontent.com/59903316/97177306-7698ce80-17d9-11eb-83dc-de4bdd4af92d.jpg width="500" height="300">|||<img src=https://user-images.githubusercontent.com/59903316/97177424-831d2700-17d9-11eb-9b09-432e2e5f09e9.jpg width="500" height="300">
-
-
-
-
-
+###  
 <img src=https://user-images.githubusercontent.com/59903316/97177579-b95aa680-17d9-11eb-821a-270ed9318c5d.jpg width="500" height="300">|||<img src=https://user-images.githubusercontent.com/59903316/97177458-90d2ac80-17d9-11eb-8388-ff3abb15b446.jpg width="500" height="300">
-
-
-
-
+###  
 
 <img src=https://user-images.githubusercontent.com/59903316/97177472-94663380-17d9-11eb-903c-b069e6a51280.jpg width="500" height="300">|||<img src=https://user-images.githubusercontent.com/59903316/97177499-9d570500-17d9-11eb-9387-5316b5d11eba.jpg width="500" height="300">
-
-
-
+###  
 
 <img src=https://user-images.githubusercontent.com/59903316/97177526-a7790380-17d9-11eb-9327-b5cd3e1fd1d9.png width="500" height="300"> 
-  
-
-
-
+### 
+ 
 <img src=https://user-images.githubusercontent.com/59903316/97179182-df814600-17db-11eb-95c4-e369af8b458c.gif>
 
