@@ -2,7 +2,7 @@
 ### : NodeMCU와 여러 센서들을 연결해 실시간으로 웹과 앱으로 센서들의 값을 확인 할 수 있는 가정용 센서보드
 
 # 기능
-### 1) 시간, 온도, 습도 LCD로 표시
+### 1) 시간, 요일, 온도, 습도 LCD 표시
 ### 2) 밝기 따라 무드등(녹색)LED On
 ### 3) 유해가스 누출시 부저 및 적색LED On, LCD 경고 표시
 ### 4) Iot Platform 인 ThingSpeack 통해 실시간으로 웹, 앱으로 센서 값 확인
@@ -15,7 +15,7 @@
 ### ▽ 시간, 온도, 습도 LCD에 표시 ▽ 
 <img src=https://user-images.githubusercontent.com/59903316/97177424-831d2700-17d9-11eb-9b09-432e2e5f09e9.jpg width="550" height="350">
 
-### ▽ A보드 외부 ▽ 									
+### ▽ A보드 외관 ▽ 									
 <img src=https://user-images.githubusercontent.com/59903316/97177579-b95aa680-17d9-11eb-821a-270ed9318c5d.jpg width="550" height="350">
 
 ### ▽ A보드 동작 ▽
