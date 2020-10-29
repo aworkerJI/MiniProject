@@ -1,5 +1,5 @@
 # 02_VideoProcessor(RaspberryPi3) 
-### : 라즈베리3와 Usb카메라로 QtCreator, OpenCv 이용해 다양한 영상처리와, 캡쳐, 녹화등이 가능한 애플리케이션
+### : 라즈베리3와 USB카메라로 QtCreator, OpenCv 이용해 다양한 영상처리와, 캡쳐, 녹화등이 가능한 애플리케이션
 
 ## 기능
 ### 1) 버튼 클릭에 따라 이동, 회전, 크기변화
