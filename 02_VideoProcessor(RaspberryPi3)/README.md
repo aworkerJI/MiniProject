@@ -19,7 +19,7 @@
 ### ▽ 영상 히스토그램 ▽
 <img src=https://user-images.githubusercontent.com/59903316/97514651-9fd07f00-19d2-11eb-83a0-fbb39e2c27f7.gif width="550" height="350">
 
-### ▽ 영상 내 차량, 얼굴 탐지 후 표시 ▽
+### ▽ 영상 내 차량, 얼굴 탐지 후 영역 표시 ▽
 <img src=https://user-images.githubusercontent.com/59903316/97514655-a3fc9c80-19d2-11eb-9585-b4f4caf1ccf2.gif width="550" height="350">
 
 ### ▽ 조도센서의 값에 따라 영상 밝기 자동조절 ▽
