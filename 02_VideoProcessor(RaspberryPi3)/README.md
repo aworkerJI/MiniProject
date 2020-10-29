@@ -19,10 +19,10 @@
 ### ▽ 영상 히스토그램 ▽
 <img src=https://user-images.githubusercontent.com/59903316/97514651-9fd07f00-19d2-11eb-83a0-fbb39e2c27f7.gif width="550" height="350">
 
-### ▽ 영상 내 차량 탐지 후 표시 ▽
+### ▽ 영상 내 차량, 얼굴 탐지 후 표시 ▽
 <img src=https://user-images.githubusercontent.com/59903316/97514655-a3fc9c80-19d2-11eb-9585-b4f4caf1ccf2.gif width="550" height="350">
 
-### ▽ 영상 내 얼굴 탐지 후 표시 ▽
+### ▽ 조도센서의 값에 따라 영상 밝기 자동조절 ▽
 <img src=https://user-images.githubusercontent.com/59903316/97514667-ab23aa80-19d2-11eb-89b4-2614c3a77667.gif width="550" height="350">
 
 ### ▽ REC 클릭 시 영상 녹화 및 LED(적색) on, Stop 클릭시 녹화 종료 및 LED(적색) Off ▽
