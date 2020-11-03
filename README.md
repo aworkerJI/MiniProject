@@ -8,3 +8,6 @@
 
 ## 03_ApplicationCoffee(Pyqt5, MySQL)
 #### : Pyqt와 DB를 연동해서 카페에서 메뉴 추가, 가격 수정, 삭제, 판매세부내역 확인 할 수 있는 애플리케이션
+
+## 04_Car_SerialControl(ArduinoUno)
+#### : ArduinoUno와 L293D 4CH 모터드라이버를 연결하여 mecanumwheel인 차를 시리얼 통신을 이용해서 제어
