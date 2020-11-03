@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fe60575-a779-4f39-bda5-291d950e3c2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/dao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/dao/abs_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/dao/product_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/dao/product_dao_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/dao/sale_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/db_connection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/db_connection/connection_pool_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/db_connection/db_config.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../application_coffee_tc/ui/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UuHJPqGmWYDaENrWtgRJzHVUvq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db_connection" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="application_coffee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe60575-a779-4f39-bda5-291d950e3c2c" name="Default Changelist" comment="" />
+      <created>1576199487881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576199487881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="328" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576714263996">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state x="672" y="328" width="424" height="484" key="FileChooserDialogImpl/35.27.1885.1053@35.27.1885.1053" timestamp="1576714263996" />
+    <state width="1888" height="129" key="GridCell.Tab.0.bottom" timestamp="1576200276604">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1888" height="129" key="GridCell.Tab.0.bottom/0.34.1920.1046/0.34.1920.1046@0.34.1920.1046" timestamp="1576200276604" />
+    <state width="1888" height="129" key="GridCell.Tab.0.center" timestamp="1576200276604">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1888" height="129" key="GridCell.Tab.0.center/0.34.1920.1046/0.34.1920.1046@0.34.1920.1046" timestamp="1576200276604" />
+    <state width="1888" height="129" key="GridCell.Tab.0.left" timestamp="1576200276604">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1888" height="129" key="GridCell.Tab.0.left/0.34.1920.1046/0.34.1920.1046@0.34.1920.1046" timestamp="1576200276604" />
+    <state width="1888" height="129" key="GridCell.Tab.0.right" timestamp="1576200276604">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1888" height="129" key="GridCell.Tab.0.right/0.34.1920.1046/0.34.1920.1046@0.34.1920.1046" timestamp="1576200276604" />
+  </component>
+</project>
